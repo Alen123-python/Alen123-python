@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alen
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently learning Panda3D
+- 🌱 I’m currently learning Nothing 🤣
 - 📫 How to reach me : alensavio2020cps@gmail.com(NOTE:i am not always available)
 
 <!---
