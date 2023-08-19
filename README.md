@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Alen
 - 👀 I’m interested in Game dev
 - 🌱 I’m currently learning Nothing 🤣
-- 📫 How to reach me : alensavio2020cps@gmail.com(NOTE:i am not always available)
 
 <!---
 Alen123-python/Alen123-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
